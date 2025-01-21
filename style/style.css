@@ -63,6 +63,20 @@ body{
     padding: 80px 59.99px 80px 64px;
   }
 
+/* pillars styles */
+.image-padding{
+  padding: 24px 214px 24px 24px;
+}
+.pillar-container{
+  display:flex;
+  gap: 24px;
+}
+.pillar{
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  width: 302px;
+}
+
   /* Vision section styles */
   .vision-container{
     display: flex;
