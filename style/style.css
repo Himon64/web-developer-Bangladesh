@@ -135,10 +135,42 @@ body{
 .satelite-container-1{
   padding: 56px 48px 56px 32px;
 }
+/* Donate styles */
+.donate-title{
+  text-align: center;
+}
+.donate-description{
+  /* text-align: center; */
+  padding: 0 88px;
+}
 .donate-container{
   display: flex;
-  gap: 102px;
+  gap: 24px;
 }
-.donate-box{
+.donate-box{  
   background-color: #FFFFFF;
+  border-radius: 16px;
+  font-size: 30px;
+  font-weight: Bold;
+  padding: 1px 40px ;
+  border: 1px solid rgba(72, 73, 75, 0.15); 
+}
+.donate-container{  
+  margin: 32px 104.5px 32px 140.5px;
+}
+.box-color{
+  background-color: #C6E4D6;
+}
+/* input styles */
+.input{
+  width: 1032px;
+  /* height: 234px; */
+  background-color: #FFFFFF;
+  font-size: 20px;
+  text-align: center;
+  border: none;
+  padding: 20px;
+}
+.button{
+  text-align: center;
 }
